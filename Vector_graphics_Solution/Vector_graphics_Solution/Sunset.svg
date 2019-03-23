@@ -1,0 +1,20 @@
+<svg width="300" height="300" xmlns="http://www.w3.org/2000/svg">
+<rect x="0" y="0" width="300" height="50" style = "fill:rgb(0,0,255)"/>
+<rect x="0" y="50" width="300" height="50" style = "fill:rgb(0,0,212)"/>
+<rect x="0" y="100" width="300" height="50" style = "fill:rgb(0,0,169)"/>
+<rect x="0" y="150" width="300" height="50" style = "fill:rgb(0,0,126)"/>
+<rect x="0" y="200" width="300" height="50" style = "fill:rgb(0,0,83)"/>
+<rect x="0" y="250" width="300" height="50" style = "fill:rgb(0,0,40)"/>
+<line x1="0" y1="0" x2="300" y2="0" style="stroke:rgb(192, 208, 232); stroke - width:4" />
+<line x1="0" y1="50" x2="300" y2="50" style="stroke:rgb(192, 208, 232); stroke - width:4" />
+<line x1="0" y1="100" x2="300" y2="100" style="stroke:rgb(192, 208, 232); stroke - width:4" />
+<line x1="0" y1="150" x2="300" y2="150" style="stroke:rgb(192, 208, 232); stroke - width:4" />
+<line x1="0" y1="200" x2="300" y2="200" style="stroke:rgb(192, 208, 232); stroke - width:4" />
+<line x1="0" y1="250" x2="300" y2="250" style="stroke:rgb(192, 208, 232); stroke - width:4" />
+<circle cx = "25" cy = "25" r = "25" style =" stroke:red; stroke-width:3; fill:rgb(255,229,0)"/>
+<circle cx = "75" cy = "75" r = "25" style =" stroke:red; stroke-width:3; fill:rgb(255,200,0)"/>
+<circle cx = "125" cy = "125" r = "25" style =" stroke:red; stroke-width:3; fill:rgb(255,171,0)"/>
+<circle cx = "175" cy = "175" r = "25" style =" stroke:red; stroke-width:3; fill:rgb(255,142,0)"/>
+<circle cx = "225" cy = "225" r = "25" style =" stroke:red; stroke-width:3; fill:rgb(255,113,0)"/>
+<circle cx = "275" cy = "275" r = "25" style =" stroke:red; stroke-width:3; fill:rgb(255,84,0)"/>
+</svg>
